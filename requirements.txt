@@ -1,0 +1,8 @@
+altair==5.2.0
+ipywidgets==8.0.4
+matplotlib==3.7.1
+numpy==1.24.3
+pandas==1.5.3
+panel==1.2.1
+IPython==8.22.2
+vega==4.0.0
